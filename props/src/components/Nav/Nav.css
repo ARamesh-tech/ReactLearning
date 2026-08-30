@@ -1,0 +1,18 @@
+nav{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white; /* color applies to all the inner elements as well */
+    padding: 40px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap:20px;
+    font-size: 25px;
+}
